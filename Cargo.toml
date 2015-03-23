@@ -37,8 +37,8 @@ git = "https://github.com/pistondevelopers/shader_version"
 #version = "0.0.2"
 
 [dependencies.gl]
-git = "https://github.com/bjz/gl-rs"
-#version = "0.0.9"
+git = "https://github.com/sinistersnare/gl-rs"
+#version = "0.1.0"
 
 [dependencies.quack]
 git = "https://github.com/PistonDevelopers/quack"
